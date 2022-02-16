@@ -1,3 +1,7 @@
+.body {
+  font-familt: "Roboto",sans-serif;
+}
+
 .App {
   min-height: 100vh;
   background: url("../public/images/quiz-background.jpeg") no-repeat center
